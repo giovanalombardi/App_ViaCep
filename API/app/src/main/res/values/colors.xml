@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="amarelo">#FFC107</color>
+    <color name="amarelo_claro">#FFEB3B</color>
+    <color name="amarelo_limao">#CDDC39</color>
+    <color name="amarelo_escuro">#576103</color>
+    <color name="verde">#8BC34A</color>
+    <color name="verde_militar">#375219</color>
+    <color name="verde_escuro">#057E0A</color>
+
+</resources>

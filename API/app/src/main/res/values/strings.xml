@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViaCep</string>
+    <string name="cep">cep</string>
+    <string name="buscar_cep">Buscar cep</string>
+    <string name="logradouro">logradouro</string>
+    <string name="bairro">bairro</string>
+    <string name="cidade">cidade</string>
+    <string name="estado">estado</string>
+</resources>
